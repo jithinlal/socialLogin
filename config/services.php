@@ -36,20 +36,20 @@ return [
 	],
 
 	'facebook' => [
-		'client_id' => '2205483573042752',
-		'client_secret' => 'afeef1f2a8be03f5ca1039ba96a6cec0',
+		'client_id' => '',
+		'client_secret' => '',
 		'redirect' => 'http://localhost:8000/redirect/facebook/callback',
 	],
 
 	'twitter' => [
-		'client_id' => '2205483573042752',
-		'client_secret' => 'afeef1f2a8be03f5ca1039ba96a6cec0',
+		'client_id' => '',
+		'client_secret' => '',
 		'redirect' => 'http://localhost:8000/redirect/facebook/callback',
 	],
 
 	'google' => [
-		'client_id' => '783545714204-15si9th2g283pvqbd390qjr4t22ks0ka.apps.googleusercontent.com',
-		'client_secret' => 'e0teXukS86qlhnIl1MN_d40l',
+		'client_id' => '',
+		'client_secret' => '',
 		'redirect' => 'http://localhost:8000/redirect/google/callback',
 	]
 
